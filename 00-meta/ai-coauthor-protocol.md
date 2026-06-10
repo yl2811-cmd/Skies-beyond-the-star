@@ -8,6 +8,7 @@ scaffold: true   # ⌂
 # 检索式 AI co-author · session 加载协议（⌂ 脚手架）
 
 > 适用对象：无 continual learning 的检索式 AI。每个 session 按此协议冷启动。
+>
 
 ## 加载顺序
 
@@ -15,8 +16,9 @@ scaffold: true   # ⌂
 2. `GLOSSARY.md` → 锁定全部拼写。
 3. 按任务类型加载（见下表），**不整库通读**——文件粒度纪律（一个概念一个文件）就是为这一步服务的。
 
-| 任务 | 必读 |
+| 任务 | 必读 | CRITICAL
 |---|---|
+目前大纲的计划集数是占位用的，但注意可能会进行ABC的细分，每一集都是5K-10K左右的budget，但是如果细分，那个集数每个细分集是5K-10K，总体就是几万
 | 写/改 prose | `20-craft/constitution-childhood.md`、`00-meta/checklists/prose-gate.md`、涉及的 `30-design/arcs/` 卡片、`10-canon/world/calendar.md`（季节场景时） |
 | 动设定 | `10-canon/INDEX.md`、目标文件、`00-meta/checklists/canon-change-gate.md` |
 | 起草标本批注 | 目标 specimen + `90-archive/README.md` + `20-craft/` 全部法条 |
