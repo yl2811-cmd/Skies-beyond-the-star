@@ -1,0 +1,1 @@
+note, this is skies beyond the star novel outline tree, model with good creativity are welcomed, image except anna freedman and lia are not guaranteed to present archeon, please distinguish carefully. writing must be in English if allowed.
