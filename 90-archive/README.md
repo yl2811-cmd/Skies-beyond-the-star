@@ -18,6 +18,6 @@ date: 2026-06-10
 
 | 标本 | 批注档 | 状态 |
 |---|---|---|
-| `specimens/old-2025-ep12-to-16.md` | `annotations/old-2025-ep12-to-16.annotation.md` | 正文已有（104,897 字节）；批注档待 Phase 3b 起草（AI 起草 → 作者裁决） |
-| `specimens/old-2025-ep5-to-7-no1-to-4.md` | `annotations/old-2025-ep5-to-7-no1-to-4.annotation.md` | 正文已有（90,415 字节）；批注档待 Phase 3b 起草（AI 起草 → 作者裁决） |
+| `specimens/old-2025-ep12-to-16.md` | `annotations/old-2025-ep12-to-16.annotation.md` | 正文已有（104,897 字节）；批注档已裁决转 canon（2026-06-10，decisions/0005） |
+| `specimens/old-2025-ep5-to-7-no1-to-4.md` | `annotations/old-2025-ep5-to-7-no1-to-4.annotation.md` | 正文已有（90,415 字节）；批注档已裁决转 canon（2026-06-10，decisions/0005）。**注意：本件不含旧 Ep1-4 正文**（文件名 no1to4 指 L5 弃稿头注）；旧 Ep1-4 原件已销账不补传——作者裁决："参考无意义"（decisions/0005），以 L5 头注为唯一存证 |
 | `specimens/timelapse-outline-01.txt`（大纲01） | `annotations/timelapse-outline-01.annotation.md` | Phase 1 已拆分入库；批注档=迁移清单+验证记录。**禁止直接引用本件作事实来源** |
