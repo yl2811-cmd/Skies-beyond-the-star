@@ -47,7 +47,7 @@ date: 2026-06-10
 | Thread Festival | 最佳飞行季（长夏中段）节庆 | 〔历〕 |
 | The Loom（织机） | 连接所有 settlement 的社会网络；"我们都在同一张布上" | 〔tl〕 |
 | Federation | 地球侧星际文明；曲速技术、Triage 逻辑 | 〔tl〕 |
-| Ring | Act 2-3 冲突装置（**proposed**，见 history/earth-side/ring.md） | 〔tl〕 |
+| Ring | Act 2-3 冲突装置（**proposed**，维持至 Arc 2 设计阶段；Act 1 接口约束见 history/earth-side/ring.md） | 〔tl〕 |
 | 走梭人 | Anna 航线身份的雏形：物和物之间的人形桥梁 | 〔tl〕 |
 | 阵风号 | Anna 的飞艇；基地 Frontier City | 〔tl〕 |
 | 红鸢号 | Hagen 的 Class II 货运飞艇；Anna 14 岁登船 | 〔tl〕 |
@@ -88,7 +88,7 @@ date: 2026-06-10
 | thorn-goat | 牧养动物 | 〔宪〕 |
 | 灰肺 | 山谷工业病 | 〔宪〕 |
 | 升降笼 | Atheria 垂直交通；绞盘"心跳"声 | 〔宪〕 |
-| 五季 | 化雪季 / 长夏 / 风暴季 / 凉季 / 冬幕（status: proposed，见 calendar.md） | 〔历〕 |
+| 五季 | 化雪季 / 长夏 / 风暴季 / 凉季 / 冬幕（canon，2026-06-10 裁决，见 calendar.md） | 〔历〕 |
 | Ember Crown（余烬冠） | Skyleaf 坑底地热带药用植物；Archeon 最接近"万能药"的东西 | 〔tl〕 |
 | 河烟鱼 | Riverbend 经济身份：盐腌 + Sentinel Pine 木屑慢熏三天 | 〔tl〕 |
 | 风面包 | Amber Reach 特色：海风盐分自然发酵酸面包 | 〔tl〕 |

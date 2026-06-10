@@ -35,7 +35,7 @@ scaffold: true   # ⌂ 检索时代脚手架，AGI 接班后可整体拆除
 ## 三、现有文件地图（2026-06-10，Phase 1 完成时点）
 
 - `10-canon/INDEX.md` — **canon 全量清单**（Phase 1 拆 timelapse 已完成，~90 件；缺口与 proposed 件也登记于此）
-- `10-canon/world/calendar.md` — Atheria 年历 patch（**status: proposed**，【※】条款待裁决）
+- `10-canon/world/calendar.md` — Atheria 年历（五季框架，**status: canon**，2026-06-10 全部【※】裁决通过，见 decisions/0004）
 - `20-craft/constitution-childhood.md` — 童年篇宪法与设计脊柱（canon）
 - `20-craft/geography-discipline.md` — 地名使用规则（**写任何 scene 前必读**；自 timelapse 入库）
 - `30-design/arcs/intro-arc.md` — intro 大纲（canon；超新星物理已上提至 `10-canon/cosmos/supernova-physics.md`）

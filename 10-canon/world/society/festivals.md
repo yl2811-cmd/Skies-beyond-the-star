@@ -5,7 +5,7 @@ date: 2026-06-10
 source: timelapse.txt L524-L582
 ---
 
-> 互见：节庆的年历时序锚点见 `10-canon/world/calendar.md`（status: proposed）。
+> 互见：节庆的年历时序锚点见 `10-canon/world/calendar.md`（status: canon，2026-06-10 裁决，见 decisions/0004）。
 
 ## 四、节庆
 
@@ -29,7 +29,7 @@ source: timelapse.txt L524-L582
 
 ### 4.2 Sky Fire's Eve（星火夜）
 
-超新星到达Archeon的周年纪念日。
+超新星到达Archeon的周年纪念日。**年历定位：冬幕**（全 Archeon 统一硬日期，作者锁定 2026-06-10，decisions/0004 第 2 条）——自发熄灯看星云需要全年最暗最稳的夜空，灯笼在长夜里最美，"我们的生日"落在一年将尽处。
 
 "我们的生日"**。
 
@@ -44,7 +44,7 @@ source: timelapse.txt L524-L582
 
 ### 4.3 Launch Day（建城日）
 
-每个settlement自己的纪念日。日期不一定精确（很多早就记不清了），更像是一个约定俗成的"我们的节日"。
+每个settlement自己的纪念日。日期不一定精确（很多早就记不清了），更像是一个约定俗成的"我们的节日"。**Atheria 的 Launch Day 定于化雪季**（decisions/0004 第 3 条）——"开始"的季节纪念"开始"。
 
 **全城放假。** 市集延长到半夜。酒馆挂出特别的旗帜。工坊关门（但铁匠铺可能反而更忙——因为他们要给孩子们做节日的小金属玩具）。
 
@@ -57,6 +57,8 @@ source: timelapse.txt L524-L582
 基调是**快乐的**。不是阴郁的篝火冥想——是一群人围着火堆大声唱歌，有人在跳舞，有人在吵架（关于哪个valley的酿酒更好），有几个孩子在火堆旁边的阴影里玩追逐游戏。
 
 Bonfire Night起源于Sky Fire后最初几代人——那时候确实是为了在黑暗和恐惧中寻找温暖。但521年后的版本已经完全变成了**社区聚会的借口**。如果你问一个Riverbend居民"Bonfire Night是纪念什么的"，他可能会说"呃……就是……我们一起烤东西吃的那天？"
+
+**归属裁决（2026-06-10，decisions/0004 第 4 条）：** Bonfire Night 为 Riverbend 独有，**Atheria 刻意没有**——工业峡谷聚落的火是炉子和熏肉铺，日常而非仪式；"刻意没有"本身是 settlement 性格。
 
 ### 4.5 Naming Day（命名日）
 
