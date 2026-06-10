@@ -25,3 +25,10 @@
 ;
 ; F) downstream：arc-3.md Frontier "三十万" → census 233k；
 ;    continuity-ledger 加"大陆尺度"行；CANON_MAP §四销 worldmap 账（资产入库后）。
+;
+; G) 2026-06-10 追裁（decisions/0009，PR #9 评审对话）：
+;    - Riverbend = Ishkar 南支上游（选项 A）。riverbend.md "主流"→"南支主流"，
+;      hydrology-ishkar.md proposed → canon，GLOSSARY 定稿。
+;    - 三孤儿专名落座大陆以东海域：Vorhan=东侧最大陆块(BARREN) /
+;      Keld Archipelago=东北群岛链 / Duskreach=东南离岸陆块。
+;      GLOSSARY 补三条；regional-geography 关键地理单元表加行；ecology Zone 5 补位置括注。
