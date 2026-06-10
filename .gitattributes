@@ -1,3 +1,5 @@
-# LFS 规则（PLAN v0.2 §一）。若本地未安装 git-lfs，此规则不生效但无害；
-# LFS 启用状态见 00-meta/conventions.md。
-*.png filter=lfs diff=lfs merge=lfs -text
+# LFS 规则（PLAN v0.2 §一）——当前注释停用：本仓库的托管通道对 lfs.github.com
+# 授权失败（2026-06-10 实测），规则激活会把 PNG 变成永远无法上传的指针。
+# 启用步骤：确认 LFS 端点可用 → 取消下行注释 → git lfs migrate import。
+# 详见 00-meta/conventions.md。
+# *.png filter=lfs diff=lfs merge=lfs -text

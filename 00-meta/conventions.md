@@ -47,4 +47,4 @@ scaffold: true              # 可选；⌂ 脚手架文档专用，AGI 接班后
 ## 工作流
 
 - **main = canon**；草稿活在分支；PR = 过审门（对照 `checklists/`）；Tags = 冻结点。
-- LFS：`.gitattributes` 规则已立（`*.png`）。**当前状态：待启用**——执行环境无 git-lfs 时图像按普通对象入库（现有图均 <10MB，安全）；启用后对 `50-assets/` 执行一次性转换。
+- LFS：`.gitattributes` 中 `*.png` 规则已写好但**注释停用**——2026-06-10 实测本仓库托管通道对 lfs.github.com 授权失败，规则激活会产生无法上传的指针。图像暂按普通对象入库（现有图均 <10MB，安全）。启用步骤：确认 LFS 端点可用 → 取消 `.gitattributes` 注释 → `git lfs migrate import` 一次性转换 `50-assets/`。
