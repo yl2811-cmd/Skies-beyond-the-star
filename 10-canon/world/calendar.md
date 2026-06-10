@@ -1,3 +1,11 @@
+---
+id: canon.world.calendar
+status: proposed
+date: 2026-06-10
+source: PATCH_Atheria年历_v0.1_2026-06-10.md（原根目录，原样迁入）
+note: 文内【※】条款待作者裁决后方可转 canon；【锚】条款本就是既有 canon 的定位
+---
+
 # PATCH · Atheria 年历（谷的年轮）v0.1
 
 > 日期：2026-06-10
