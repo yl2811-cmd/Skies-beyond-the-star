@@ -18,9 +18,9 @@ date: 2026-06-10
 
 ## 流程
 
-1. 每个工作 session 末，AI 起草"本次收割清单"：列出对话中产生的三类候选，逐条标去向。
+1. 每个工作 session 末，AI 起草"本次收割清单"：列出对话中产生的三类候选，逐条标去向。（**收割节奏=每 session 末**，作者终裁 2026-06-10，decisions/0006——原浆感受隔周就馊了，批量回收等于回收转述。）
 2. 作者确认/修订清单（一句话裁决即可）。
-3. 入库。reveries 中 AI 产出但被作者明确认可的感受性段落，front-matter 标 `source: ai-approved`；作者原话标 `source: author`（作者原话永远是更高权重的基准音）。※ 此条对应 open-questions Q7 的提案，作者终裁前按此执行。
+3. 入库。reveries 中 AI 产出但被作者明确认可的感受性段落，front-matter 标 `source: ai-approved`；作者原话标 `source: author`（作者原话永远是更高权重的基准音）。（**reveries 边界=都收+source 标注**，作者终裁 2026-06-10，decisions/0006——作者裁决通过的 AI 感受是有效监督信号，front-matter 标签保住血统可查。）
 
 ## Review-as-product
 

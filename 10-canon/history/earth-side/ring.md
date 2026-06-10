@@ -3,7 +3,15 @@ id: canon.history.earth-side.ring
 status: proposed
 date: 2026-06-10
 source: timelapse.txt L1078-L1087
+note: 作者裁决（2026-06-10，decisions/0007）：维持 proposed 至 Arc 2 设计阶段——现在锁定买不到任何东西，只损失灵活性。下方"Act 1 接口约束"两条为 canon 级，独立于本文件的 proposed 状态。
 ---
+
+## Act 1 接口约束（canon 级 · 2026-06-10 裁决锁定）
+
+本文件整体维持 proposed，但 Act 1 写作期间以下最小"不矛盾约束"按 canon 执行：
+
+1. **Ring 不出现于 Act 1。**
+2. **Ring 可能比 Federation 更早知道 Archeon 还活着**（星云里的前哨站监控了几百年）——此条作为 Act 1 **可选**的暗线种子，可埋可不埋，但 Act 1 不得写出与之矛盾的事实。
 
 #### Act 2-3：Ring与主要冲突（TBD）
 
