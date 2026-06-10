@@ -20,4 +20,4 @@ date: 2026-06-10
 |---|---|---|
 | `specimens/old-2025-ep12-to-16.md` | `annotations/old-2025-ep12-to-16.annotation.md` | ⚠ **原文缺失**：原 `old-2025ep12to16.txt` 上传失败（0 字节），待作者重新上传正文 |
 | `specimens/old-2025-ep5-to-7-no1-to-4.md` | `annotations/old-2025-ep5-to-7-no1-to-4.annotation.md` | ⚠ **原文缺失**：原 `old-2025ep5to7no1to4.txt` 上传失败（0 字节），待作者重新上传正文 |
-| timelapse 原件 | — | Phase 1 拆分完成后入库 |
+| timelapse（大纲01）原件 | — | Phase 1 拆分完成后入库 |

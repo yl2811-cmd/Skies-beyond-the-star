@@ -14,4 +14,4 @@ date: 2026-06-10
 3. Atheria 年历 patch 归位 `10-canon/world/calendar.md`，status: proposed，正文原样，【※】条款待裁决。
 4. 童年篇宪法两版去重：以 .md 格式版为准（经 diff 确认纯文本版无独有内容），纯文本版删除。
 
-**影响**：Phase 1（拆 timelapse）、Phase 2（建账）、Phase 3（品味层冷启动）待源材料入库后执行；缺失清单见 CANON_MAP §四。
+**影响**：Phase 1（拆 timelapse，实际文件名「大纲01」）、Phase 2（建账）、Phase 3（品味层冷启动）待源材料入库后执行；缺失清单见 CANON_MAP §四。

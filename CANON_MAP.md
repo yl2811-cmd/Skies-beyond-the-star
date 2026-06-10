@@ -46,7 +46,7 @@ scaffold: true   # ⌂ 检索时代脚手架，AGI 接班后可整体拆除
 
 ## 四、尚未入库（检索时找不到不等于不存在）
 
-- **timelapse 两版**（技术总纲）——仍在项目知识中，Phase 1 拆入 `10-canon/`
+- **timelapse 两版**（技术总纲；实际文件名「大纲01」，见 GLOSSARY 文档别名）——仍在项目知识中，Phase 1 拆入 `10-canon/`
 - **old-2025 两件废稿正文**——上传失败，仅有占位（见 90-archive）
 - **worldmap.png**——规划中列出但从未入库
 - **历次对话中的原浆感受**——待 Phase 3c 回收入 `60-taste/reveries/`

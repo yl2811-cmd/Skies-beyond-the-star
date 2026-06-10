@@ -16,6 +16,8 @@ date: 2026-06-10
 
 ## 待入库（Phase 1：拆 timelapse，剪切不改写）
 
+> timelapse = 实际文件名「大纲01」（GLOSSARY 文档别名已登记）。
+
 timelapse 两版仍在项目知识中，按 repo-plan §一拆入以下子目录；timelapse 原件届时入 `90-archive/specimens/`：
 
 - `cosmos/` — 参宿四系统 / 超新星物理 / Archeon 行星 / 曲速通讯（注意：`30-design/arcs/intro-arc.md` §二已含超新星物理模型，拆分时上提至此并去重）
