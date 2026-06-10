@@ -68,7 +68,7 @@ date: 2026-06-10
 | Aethelgard | 大陆名 | 〔tl〕 |
 | Main Basin | 大陆中央盆地；**"Basin"是 CI/Federation 地图词，Anna 一代 prose 禁用**（见 20-craft/geography-discipline.md） | 〔tl〕 |
 | Orun | 高原/峡谷系统（Grand Canyon、南线） | 〔tl〕 |
-| Ishkar | 河；北支流经 Atheria 谷底 | 〔tl〕 |
+| Ishkar | 水系（非单一河）；北支〔部分向海〕+ 南支〔Orun 北壁〕汇成主干，盆地内河流口语统称 Ishkar | 〔tl〕（水系待裁 decisions/0008 §3） |
 | Frontier City | 最大 settlement（~233k），Apex Hub；"大都市" | 〔tl〕 |
 | Iris Hollow | 沿海丘陵 settlement（~80k），Apex Hub | 〔tl〕 |
 | Cinderlode | 烬矿（~80k）；第三大城、东方清算所、非 Apex | 〔tl〕 |
