@@ -7,7 +7,7 @@ date: 2026-06-10
 # GLOSSARY · 术语/人名/地名注册表
 
 > 双读者通用。新名词入正文前必须先在此注册；拼写以本表为准。
-> 本表只锁拼写与一句话身份，详细设定在 `10-canon/`。来源标注：〔宪〕=童年篇宪法，〔intro〕=intro 大纲，〔历〕=年历 patch，〔图〕=图像资产。
+> 本表只锁拼写与一句话身份，详细设定在 `10-canon/`。来源标注：〔宪〕=童年篇宪法，〔intro〕=intro 大纲，〔历〕=年历 patch，〔图〕=图像资产，〔tl〕=timelapse 拆分件（Phase 1 入库）。
 
 ## 人物
 
@@ -25,8 +25,13 @@ date: 2026-06-10
 | Toller | 铁匠；闷而少话（与 Edmund 的少话刻意区分） | 〔宪〕 |
 | Eira | 故事夜守夜人；口述史主通道，Arc 4 最大伏笔之一 | 〔宪〕 |
 | Savona | 退休老飞行员；航线活地图 | 〔宪〕 |
-| Joren | （宪法 1.1 例句中出现的名字，身份待登记） | 〔宪〕 |
+| Joren | Atheria 维修组长；Lia 事件后调整 Anna 的工作范围 | 〔宪〕〔tl〕 |
 | Atwood | 把孩子口中的 "Sky Fire" 写进 ledger 的记录者 | 〔intro〕 |
+| Milo | 14 岁男孩；Anna 控制模式递变的镜子角色 | 〔tl〕 |
+| Kassia | 约 20-22 岁女 pilot；存在规则 P-17~P-19 | 〔tl〕 |
+| Hagen | 红鸢号船长；Anna 14 岁起的飞行导师 | 〔tl〕 |
+| Sila | Riverbend 盐线相关人物（EP14） | 〔tl〕 |
+| Sofia | intro Ep7 B 线："Sofia 看见光" | 〔tl〕 |
 
 ## 天体 / 事件 / 文明装置
 
@@ -36,10 +41,16 @@ date: 2026-06-10
 | Sky Fire | 超新星事件的民间命名（孩子的直觉被 Atwood 记下）；Ep1–4 禁出现 | 〔intro〕 |
 | Sky Fire's Remnant | 超新星遗迹；冬幕夜空全年最亮 | 〔历〕 |
 | Sky Fire's Eve | 节庆；已有结构裁决：定于冬幕 | 〔repo-plan〕 |
-| CI | （Civilization Intelligence，详义待 timelapse 入库后登记）；辐射频谱推算者 | 〔intro〕〔宪〕 |
+| CI | 殖民智能包（CI Package）：任务总监 ASI 核心+专家子系统+机器人工作群+种子库+Kepler Core；最高指令=让人类文明扎根后**自我淘汰**；辐射频谱推算者。生命周期内嵌 history/master-timeline.md | 〔intro〕〔宪〕〔tl〕 |
 | Axiom | 曲速飞船；坠毁于辐射波前能量梯度边界 | 〔intro〕 |
 | Axiom Scar | Arc 4 地点；Eira 传说字面成真处 | 〔宪〕 |
 | Thread Festival | 最佳飞行季（长夏中段）节庆 | 〔历〕 |
+| The Loom（织机） | 连接所有 settlement 的社会网络；"我们都在同一张布上" | 〔tl〕 |
+| Federation | 地球侧星际文明；曲速技术、Triage 逻辑 | 〔tl〕 |
+| Ring | Act 2-3 冲突装置（**proposed**，见 history/earth-side/ring.md） | 〔tl〕 |
+| 走梭人 | Anna 航线身份的雏形：物和物之间的人形桥梁 | 〔tl〕 |
+| 阵风号 | Anna 的飞艇；基地 Frontier City | 〔tl〕 |
+| 红鸢号 | Hagen 的 Class II 货运飞艇；Anna 14 岁登船 | 〔tl〕 |
 
 ## 地理
 
@@ -52,8 +63,18 @@ date: 2026-06-10
 | Skyleaf | 聚落；有封季（与 Kestrel's Gate 季风对齐） | 〔历〕 |
 | Kestrel's Gate | 地名；季风通道 | 〔历〕 |
 | Amber Reach | 种子船来源地 | 〔历〕 |
-| Millhaven | 聚落（图像资产已有） | 〔图〕 |
-| 鹰巢 | Atheria 上层岩壁居住位，约 400m，冬幕清晨可高于云海 | 〔历〕 |
+| Millhaven | 聚落（图像资产已有；Frontier–Iris Hollow 主干线经停） | 〔图〕〔tl〕 |
+| 鹰巢（The Eyrie） | Anna 的家：Atheria 坡面近垂直 basalt 短崖顶缘的工坊，300-350m | 〔历〕〔tl〕 |
+| Aethelgard | 大陆名 | 〔tl〕 |
+| Main Basin | 大陆中央盆地；**"Basin"是 CI/Federation 地图词，Anna 一代 prose 禁用**（见 20-craft/geography-discipline.md） | 〔tl〕 |
+| Orun | 高原/峡谷系统（Grand Canyon、南线） | 〔tl〕 |
+| Ishkar | 河；北支流经 Atheria 谷底 | 〔tl〕 |
+| Frontier City | 最大 settlement（~233k），Apex Hub；"大都市" | 〔tl〕 |
+| Iris Hollow | 沿海丘陵 settlement（~80k），Apex Hub | 〔tl〕 |
+| Cinderlode | 烬矿（~80k）；第三大城、东方清算所、非 Apex | 〔tl〕 |
+| Coppergate | Basin 南部聚落（~12k） | 〔tl〕 |
+| Stormperch | Marneth 西侧入口聚落（~2k） | 〔tl〕 |
+| Saltmarch | Great Ochre Desert 北缘聚落（~1.5k） | 〔tl〕 |
 
 ## 物 / 动植物 / 母题
 
@@ -68,12 +89,16 @@ date: 2026-06-10
 | 灰肺 | 山谷工业病 | 〔宪〕 |
 | 升降笼 | Atheria 垂直交通；绞盘"心跳"声 | 〔宪〕 |
 | 五季 | 化雪季 / 长夏 / 风暴季 / 凉季 / 冬幕（status: proposed，见 calendar.md） | 〔历〕 |
+| Ember Crown（余烬冠） | Skyleaf 坑底地热带药用植物；Archeon 最接近"万能药"的东西 | 〔tl〕 |
+| 河烟鱼 | Riverbend 经济身份：盐腌 + Sentinel Pine 木屑慢熏三天 | 〔tl〕 |
+| 风面包 | Amber Reach 特色：海风盐分自然发酵酸面包 | 〔tl〕 |
+| Shadow Clock | Riverbend 独有计时：对面崖壁阴影读时 | 〔tl〕 |
 
 ## 文档别名（项目术语 ↔ 实际文件名）
 
 | 项目术语 | 实际文件名 | 状态 |
 |---|---|---|
-| timelapse（技术总纲） | 大纲01 | 尚未入库；Phase 1 拆入 `10-canon/`，原件届时入 `90-archive/specimens/`。既有文档（宪法、年历、repo-plan）中的 "timelapse" 均指此文件 |
+| timelapse（技术总纲） | 大纲01 | **已拆分入库**（Phase 1，2026-06-10）：canon 部分入 `10-canon/`，设计部分入 `30-design/`，地名规则入 `20-craft/`；原件 = `90-archive/specimens/timelapse-outline-01.txt`，迁移清单 = 对应批注档。既有文档中的 "timelapse" 均指此文件 |
 
 ## 已知拼写漂移（以左列为准）
 

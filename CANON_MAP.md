@@ -32,21 +32,25 @@ scaffold: true   # ⌂ 检索时代脚手架，AGI 接班后可整体拆除
 3. `status: specimen` 的文件**禁止作为事实来源**，必须与 `90-archive/annotations/` 中对应批注同读。
 4. session 结束按 `00-meta/harvest-discipline.md` 起草收割清单。
 
-## 三、现有文件地图（2026-06-10，Phase 0 完成时点）
+## 三、现有文件地图（2026-06-10，Phase 1 完成时点）
 
+- `10-canon/INDEX.md` — **canon 全量清单**（Phase 1 拆 timelapse 已完成，~90 件；缺口与 proposed 件也登记于此）
 - `10-canon/world/calendar.md` — Atheria 年历 patch（**status: proposed**，【※】条款待裁决）
-- `10-canon/INDEX.md` — canon 清单与待拆项登记
 - `20-craft/constitution-childhood.md` — 童年篇宪法与设计脊柱（canon）
-- `30-design/arcs/intro-arc.md` — intro 大纲（canon；含超新星物理，Phase 1 将上提部分内容至 10-canon/cosmos）
+- `20-craft/geography-discipline.md` — 地名使用规则（**写任何 scene 前必读**；自 timelapse 入库）
+- `30-design/arcs/intro-arc.md` — intro 大纲（canon；超新星物理已上提至 `10-canon/cosmos/supernova-physics.md`）
+- `30-design/arcs/childhood/` + `30-design/modules/` — 童年篇骨架/写作原则 + M 卡素材库（自 timelapse 入库）
+- `30-design/arcs/arc-1/ep-12…15.md`、`arc-2…4.md` — Arc 1-4 集级/弧级设计（自 timelapse 入库）
+- `30-design/global-design-principles.md` — 全局设计原则索引 P-01~P-25
+- `30-design/ledgers/timelapse-appendix-seeds.md` — Phase 2 三本账的种子原料（draft）
 - `30-design/open-questions.md` — 待决问题清单
 - `50-assets/ASSET_INDEX.md` — 全部图像的 canon 地位
 - `60-taste/README.md` — 评点层格式规范（四子目录待 Phase 3 收割填充）
-- `90-archive/README.md` — 反面教材库政策；两件 old-2025 标本**原文缺失待补**
+- `90-archive/README.md` — 反面教材库政策与库存登记（timelapse 原件 + old-2025 两件，均有批注档配对）
 - `00-meta/repo-plan-v0.2.md` — 本仓库架构的总规划
 
 ## 四、尚未入库（检索时找不到不等于不存在）
 
-- **timelapse 两版**（技术总纲；实际文件名「大纲01」，见 GLOSSARY 文档别名）——仍在项目知识中，Phase 1 拆入 `10-canon/`
-- **old-2025 两件废稿正文**——上传失败，仅有占位（见 90-archive）
 - **worldmap.png**——规划中列出但从未入库
 - **历次对话中的原浆感受**——待 Phase 3c 回收入 `60-taste/reveries/`
+- **timelapse 第二版**（若存在另一版本）——仍在项目知识中，未入库；已入库并拆分的是「大纲01」
