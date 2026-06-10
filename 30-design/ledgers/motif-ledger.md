@@ -1,17 +1,35 @@
 ---
-id: design.ledgers.timelapse-appendix-seeds
-status: deprecated
+id: design.ledgers.motif
+status: canon
 date: 2026-06-10
-source: timelapse.txt L5918-L5971
+source: 归一自 timelapse-appendix-seeds.md（原 timelapse.txt L5918-L5971，逐表收编；该文件已转 deprecated）
 ---
 
-> **已 deprecated（2026-06-10）**：三表已逐字收编入 `motif-ledger.md`（M-blue / M-perception / M-acoustic）；保留仅为追溯。
+# Motif 账（motif-ledger）
 
-## 附录 · 成年感知演化锚点速查表 + 蓝色风信花累积部署表
+> 永久层。登记跨集复现的感官/意象链：每条链一张表，写 episode 时查"当集是否有 beat 要部署"。
+> 原 appendix 三表全文收编于此（剪切不改写，仅加链名前缀）；新增链按 M-<名> 追加。
 
-> **用法：** 写episode时查这里确认当集是否有感知演化或蓝色线beat需要部署。所有锚点以 `; [感知演化锚点]` 标记嵌在对应episode段落的writing guide comment里。
+## M-blue · 蓝色风信花累积部署链（七站）
 
-### A. 成年感知演化链（Arc 2-4·与童年篇Ep22-24的呼应系统）
+| # | Episode | 形式 | Reader注意到？ |
+|---|---------|------|-------------|
+| 1 | 童年1.4（6岁） | Anna趴在岩壁上看，问Miriam为什么长在这么难的地方 | 会——完整scene |
+| 2 | Ep25（skiff横渡） | 从空中看到鹰巢下方崖壁上一个蓝色的点 | 不会——一句话landscape |
+| 3 | Ep27（故事夜） | Anna讲阳光莓时提到"旁边裂缝里有蓝色的小花" | 不会——dialogue里半句 |
+| 4 | Ep41（Skyleaf花田） | Torben看Anna→蓝眼睛在红色花田里；颜色共振beat的一层 | 可能——颜色共振beat |
+| 5 | Ep58（Whispering Flats） | 结晶平原蓝绿色光波在赭红沙漠里 | 可能——但归类为landscape |
+| 6 | **Ep62**（★ payoff） | 风信花完整回归——"蓝色不是因果链。蓝色只是在那里" | **会——设计如此** |
+| 7 | Ep67（修痕后） | Anna抬头，远处崖壁上很小的一丛蓝色 | 不会——一句话background |
+
+**第一遍读：** reader只记住#1和#6，中间全是noise。
+**第二遍读：** 蓝色从Ep25开始就一直在那里，Anna从来没有特别注意过它。和P-10的定义完美匹配——"自己长的，一直在那里的，不需要任何人的。"
+
+**与红夹克线的结构对称：** 红夹克六次累积在Ep61引爆。蓝色风信花五次累积（#2-#5+#7）在Ep62 payoff。两条颜色线在同一个Arc 4归途段里前后脚完成收拢。红=Edmund给的=穿上的=因果链的。蓝=自己长的=一直在那里的=根的。
+
+## M-perception · 成年感知演化锚点链（Arc 2-4 · 呼应童年篇Ep22-24）
+
+> **用法：** 写episode时查这里确认当集是否有感知演化beat需要部署。所有锚点以 `; [感知演化锚点]` 标记嵌在对应episode段落的writing guide comment里。
 
 | Ep | 感知beat | 呼应童年/原则 | 形式 |
 |---|---------|-------------|------|
@@ -32,24 +50,7 @@ source: timelapse.txt L5918-L5971
 
 **递进方向：** 纯感官→引导listening→被动收缩→独自重开→环境适应→两轴合流→proprioception极端→主动减法。终点不是"更强的感知"——是安静到能让两个世界通过她说话。
 
-### B. 蓝色风信花累积部署表
-
-| # | Episode | 形式 | Reader注意到？ |
-|---|---------|------|-------------|
-| 1 | 童年1.4（6岁） | Anna趴在岩壁上看，问Miriam为什么长在这么难的地方 | 会——完整scene |
-| 2 | Ep25（skiff横渡） | 从空中看到鹰巢下方崖壁上一个蓝色的点 | 不会——一句话landscape |
-| 3 | Ep27（故事夜） | Anna讲阳光莓时提到"旁边裂缝里有蓝色的小花" | 不会——dialogue里半句 |
-| 4 | Ep41（Skyleaf花田） | Torben看Anna→蓝眼睛在红色花田里；颜色共振beat的一层 | 可能——颜色共振beat |
-| 5 | Ep58（Whispering Flats） | 结晶平原蓝绿色光波在赭红沙漠里 | 可能——但归类为landscape |
-| 6 | **Ep62**（★ payoff） | 风信花完整回归——"蓝色不是因果链。蓝色只是在那里" | **会——设计如此** |
-| 7 | Ep67（修痕后） | Anna抬头，远处崖壁上很小的一丛蓝色 | 不会——一句话background |
-
-**第一遍读：** reader只记住#1和#6，中间全是noise。
-**第二遍读：** 蓝色从Ep25开始就一直在那里，Anna从来没有特别注意过它。和P-10的定义完美匹配——"自己长的，一直在那里的，不需要任何人的。"
-
-**与红夹克线的结构对称：** 红夹克六次累积在Ep61引爆。蓝色风信花五次累积（#2-#5+#7）在Ep62 payoff。两条颜色线在同一个Arc 4归途段里前后脚完成收拢。红=Edmund给的=穿上的=因果链的。蓝=自己长的=一直在那里的=根的。
-
-### C. 声学recalibration链速查
+## M-acoustic · 声学recalibration链
 
 | # | 环境 | 声学特征 | Anna的recalibration | Ep |
 |---|------|---------|--------------------|----|
@@ -61,3 +62,9 @@ source: timelapse.txt L5918-L5971
 | 6 | The Wash海雾 | 雾把回声吃了·所有外部通道削弱 | proprioception浮出·身体本身是最后仪器 | Ep57 |
 
 **递进方向：** 从"方法失灵"（Iris）到"方法适应"（Frontier/Skyleaf）到"方法降级"（高空）到"方法退场身体浮出"（海雾）
+
+## 其他已登记 motif（GLOSSARY 在册，链表待写作时展开）
+
+- **三声部安全信号**（声学母题，→ 伏笔账 F-05）
+- **升降笼绞盘"心跳"**（Atheria 声景签名 + Tomas Vane 复现件）
+- **红土染料红 vs botanical 红**（P-07 颜色分工，童年禁花田）
