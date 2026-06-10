@@ -36,4 +36,6 @@ date: 2026-06-10
 
 ## 当前状态
 
-四子目录已建、待填充。冷启动（Phase 3）依赖：宪法配对原文与对话原浆段落尚未入库，见 `30-design/open-questions.md`。
+- `paired-samples/`：**Phase 3a 已冷启动**（2026-06-10）——pattern-c-sweep / three-step-flashback / m-09-thread-festival-deprecation 三对入库。其中两对的失败版原文已失传（公理一现场标本：当时没记，永远丢了）。
+- `rulings/`、`reviews/`：待写作流程启动后随 PR 收割。
+- `reveries/`：待 Phase 3c 作者回收聊天记录原浆（东部 outpost 黑熔岩附草段、"油渍快乐"等）。
