@@ -2,7 +2,7 @@
 id: canon.world.geography.hydrology-ishkar
 status: canon
 date: 2026-06-10
-source: 作者裁决 2026-06-10（decisions/0008 §3）；Riverbend 归属已裁（decisions/0009 §1，选项 A）转 canon
+source: decisions/0008 §3（2026-06-10）；Riverbend 归属经 decisions/0009 §1（选项 A）定案转 canon
 ---
 
 ## §1.5 水系 —— Ishkar 流域

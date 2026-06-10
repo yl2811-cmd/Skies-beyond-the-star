@@ -2,7 +2,7 @@
 id: canon.world.technology.skyports
 status: proposed
 date: 2026-06-10
-source: 作者工作对话 2026-06-10（大陆地图同轮；T0-T4 分级提案，待作者裁定转 canon）
+source: 2026-06-10 大陆地图同轮提案（T0-T4 分级；待定稿转 canon）
 ---
 
 ## 空港分级（T0-T4）【※提案】

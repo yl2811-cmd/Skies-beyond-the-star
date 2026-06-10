@@ -28,7 +28,7 @@ date: 2026-06-10
 | `history/earth-side/federation-warp-timeline.md` | Federation 曲速技术发展时间线（速度停滞的五重物理原因） |
 | `history/earth-side/federation-starmap.md` | Federation 星际版图（500 光年尺度） |
 | `history/earth-side/federation-fleet.md` | 31 世纪舰队 + §F4 物理质感 |
-| `history/earth-side/ring.md` | Act 2-3 Ring 与主要冲突——**proposed**（作者裁决维持至 Arc 2 设计阶段，decisions/0007；Act 1 接口约束为 canon 级） |
+| `history/earth-side/ring.md` | Act 2-3 Ring 与主要冲突——**proposed**（维持至 Arc 2 设计阶段，decisions/0007；Act 1 接口约束为 canon 级） |
 | `history/earth-side/human-morphology-spectrum.md` | 31 世纪人类形态光谱（源文标"锁定"） |
 | `history/earth-side/earth-chronicle.md` | §F1 地球编年（21→31 世纪） |
 | `history/earth-side/earth-sensory-bible.md` | §F2 31 世纪地球感官圣经 |
@@ -74,7 +74,7 @@ date: 2026-06-10
 - **CI 生命周期**——暂内嵌 `history/master-timeline.md`，独立文件待后续收割
 - **anna/red-thread**——红夹克规则分散于 `30-design/global-design-principles.md`（P-06~P-10）等设计文件，无可整块剪切的 canon 来源；待 Phase 2 由 motif-ledger 派生
 - **themes/crashmanship、三镜结构**——timelapse 无整块来源，待收割
-- **proposed（有意保持）**：`history/earth-side/ring.md`——作者裁决维持 proposed 至 Arc 2 设计阶段（decisions/0007），Act 1 接口约束已锁定（见该文件头部）
+- **proposed（有意保持）**：`history/earth-side/ring.md`——维持 proposed 至 Arc 2 设计阶段（decisions/0007），Act 1 接口约束已锁定（见该文件头部）
 
 ## 互见（重叠不去重，Phase 2 处理）
 

@@ -17,9 +17,9 @@ source: timelapse.txt L119-L124, timelapse.txt L3549-L3552
 
 ---
 
-## §3 占地与领地尺度【※提案 proposed，作者工作对话 2026-06-10】
+## §3 占地与领地尺度【※提案 proposed，2026-06-10】
 
-> 本节 **proposed**，转 canon 待作者裁定。约束来源：没有城墙（"城市像墨晕进纸里"）、没有 settlement 建在全平地形上、手工级技术无力外扩水渠。按"建成区 + 农业光环"两层算。空港占地另见 `technology/skyports.md`（每个 named settlement 至少 T1）。
+> 本节 **proposed**，转 canon 待定稿。约束来源：没有城墙（"城市像墨晕进纸里"）、没有 settlement 建在全平地形上、手工级技术无力外扩水渠。按"建成区 + 农业光环"两层算。空港占地另见 `technology/skyports.md`（每个 named settlement 至少 T1）。
 
 ### 建成区（中世纪步行城镇密度做底，Archeon 因地形附着略松）
 

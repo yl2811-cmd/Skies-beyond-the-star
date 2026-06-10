@@ -6,7 +6,7 @@ date: 2026-06-10
 
 # Decision 0006 · 收割节奏 + reveries 边界终裁（Q6/Q7）；Public/Private 暂缓（Q8）
 
-**裁决人：** 作者（2026-06-10，工作对话）
+2026-06-10 定稿（工作对话）。
 
 ## 1. 收割节奏（Q6）：每 session 末——终裁通过
 
@@ -18,4 +18,4 @@ date: 2026-06-10
 
 ## 3. 仓库 Public/Private（Q8）：暂缓
 
-作者裁决暂缓（2026-06-10）。背景：红夹克机制、Edmund 之死的全部编排目前在公网可见，IP 首发权考量倾向 Private；但转 Private 后 AI 协作需走 GitHub 授权。账继续挂在 open-questions Q8 与 Issue #5。注意：仓库可见性变更只能由作者在 GitHub Settings 手动操作。
+暂缓（2026-06-10）。背景：红夹克机制、Edmund 之死的全部编排目前在公网可见，IP 首发权考量倾向 Private；但转 Private 后 AI 协作需走 GitHub 授权。账继续挂在 open-questions Q8 与 Issue #5。注意：仓库可见性变更只能由作者在 GitHub Settings 手动操作。
