@@ -1,3 +1,10 @@
+---
+id: meta.repo-plan-v0.2
+status: canon
+date: 2026-06-10
+source: 上传文档 PLAN v0.2（2026-06-10）原样入库；本 front-matter 为入库时后加，正文未动
+---
+
 # PLAN · Skies Beyond the Star 仓库架构规划表 v0.2
 
 > 日期：2026-06-10
