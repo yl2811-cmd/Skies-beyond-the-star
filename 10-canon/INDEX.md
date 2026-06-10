@@ -28,7 +28,7 @@ date: 2026-06-10
 | `history/earth-side/federation-warp-timeline.md` | Federation 曲速技术发展时间线（速度停滞的五重物理原因） |
 | `history/earth-side/federation-starmap.md` | Federation 星际版图（500 光年尺度） |
 | `history/earth-side/federation-fleet.md` | 31 世纪舰队 + §F4 物理质感 |
-| `history/earth-side/ring.md` | Act 2-3 Ring 与主要冲突——**proposed**（大量 TBD 待作者裁决） |
+| `history/earth-side/ring.md` | Act 2-3 Ring 与主要冲突——**proposed**（作者裁决维持至 Arc 2 设计阶段，decisions/0007；Act 1 接口约束为 canon 级） |
 | `history/earth-side/human-morphology-spectrum.md` | 31 世纪人类形态光谱（源文标"锁定"） |
 | `history/earth-side/earth-chronicle.md` | §F1 地球编年（21→31 世纪） |
 | `history/earth-side/earth-sensory-bible.md` | §F2 31 世纪地球感官圣经 |
@@ -38,7 +38,7 @@ date: 2026-06-10
 
 | 文件 | 内容 |
 |---|---|
-| `world/calendar.md` | Atheria 年历（五季框架）——**proposed**，【※】条款待裁决 |
+| `world/calendar.md` | Atheria 年历（五季框架）——**canon**（2026-06-10 全部【※】裁决通过，decisions/0004） |
 | `world/ecology.md` | 生态：K2V 光谱适应、植被分区（Year 521） |
 | `world/geography/revision-log-2026-05.md` | 地理修订日志（多处数值的权威出处，修订日志体裁） |
 | `world/geography/aethelgard-terrain.md` | Aethelgard 大陆地貌、Main Basin 分异、北境 |
@@ -74,10 +74,10 @@ date: 2026-06-10
 - **CI 生命周期**——暂内嵌 `history/master-timeline.md`，独立文件待后续收割
 - **anna/red-thread**——红夹克规则分散于 `30-design/global-design-principles.md`（P-06~P-10）等设计文件，无可整块剪切的 canon 来源；待 Phase 2 由 motif-ledger 派生
 - **themes/crashmanship、三镜结构**——timelapse 无整块来源，待收割
-- **proposed 待裁决**：`world/calendar.md`、`history/earth-side/ring.md`
+- **proposed（有意保持）**：`history/earth-side/ring.md`——作者裁决维持 proposed 至 Arc 2 设计阶段（decisions/0007），Act 1 接口约束已锁定（见该文件头部）
 
 ## 互见（重叠不去重，Phase 2 处理）
 
-- 节庆时序 ↔ `world/calendar.md`（proposed）
+- 节庆时序 ↔ `world/calendar.md`（canon）
 - 地名使用规则（写 scene 必读）→ `20-craft/geography-discipline.md`（depends 指向本层 census/regional-geography/settlements/route-coverage）
 - 童年素材卡与写作原则 → `30-design/modules/`、`30-design/arcs/childhood/`
