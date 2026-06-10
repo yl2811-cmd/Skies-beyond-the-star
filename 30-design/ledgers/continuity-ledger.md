@@ -33,6 +33,7 @@ date: 2026-06-10
 | Amber Reach / Atheria / Coppergate / Riverbend / Skyleaf / Stormperch / Saltmarch | 50k / 30k / 12k / 8k / 5k / 2k / 1.5k | 各 settlement 文件 |
 | Atheria 谷地 | 谷底宽 ~2km、总宽 ~3.5km、高差 ~400m、坡 25-35° | `settlements/atheria.md` |
 | 鹰巢（The Eyrie）高度 | ~300-350m 崖顶缘 | 同上 |
+| 大陆尺度 | 大陆东西 ~2500km、南北 3000km+；Basin ~800×500km；植被触及 ~1600km(≈65%) | `geography/regional-geography.md` + `decisions/0008` |
 
 ## 技术与航空
 
@@ -58,3 +59,4 @@ date: 2026-06-10
 | 日期 | 变更 | 依据 |
 |---|---|---|
 | 2026-06-10 | 初版建账（Phase 2） | repo-plan §六 Phase 2 |
+| 2026-06-10 | 加"大陆尺度"行 | `00-meta/decisions/0008-worldmap-continental-frame.md` |
