@@ -1,3 +1,11 @@
+---
+id: design.arcs.intro-arc
+status: canon
+date: 2026-06-10
+source: intro大纲.txt（原根目录，原样迁入，仅加本 front-matter）
+note: 含超新星物理模型等 canon 级内容，Phase 1 拆 timelapse 时一并上提至 10-canon/cosmos
+---
+
 ## 一、叙事总则
  
 ### 全局信息禁令

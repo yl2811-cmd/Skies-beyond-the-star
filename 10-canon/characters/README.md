@@ -1,0 +1,2 @@
+# characters · anna/（profile+perception+red-thread）/edmund…/minor-roster
+待 Phase 1 拆 timelapse 入库；命名配角降载原则见 20-craft/constitution-childhood.md §二。

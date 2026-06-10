@@ -1,3 +1,10 @@
+---
+id: craft.constitution-childhood
+status: canon
+date: 2026-05-28
+source: 童年篇_宪法与设计脊柱_2026-05-28.md（原根目录；纯文本重复版已删，无独有内容）
+---
+
 # Anna 童年篇 · 宪法与设计脊柱
 
 > 更新：2026-05-28
