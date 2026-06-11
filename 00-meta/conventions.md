@@ -44,6 +44,11 @@ scaffold: true              # 可选；⌂ 脚手架文档专用，AGI 接班后
 - 素材卡：沿用既有 M-NN 编号（M-06…M-28）。
 - Episode：`ep-<罗马卷号>-<集号>`，如 `ep-I-01`。
 
+## 行文约定（decisions / canon 文件）
+
+- **不写引述式归因标记**：「裁决人：作者（…）」「理由（作者原话方向）」「作者确认/作者指令/作者裁决/作者亲手」这类一律不写——直接用自己的话陈述事实和理由，配日期与 decisions 编号即可（2026-06-10 起执行，全库已清理一轮）。
+- 例外：流程定义文档（repo-plan、harvest-discipline、canon-change-gate、PR 模板等）中"作者裁决/作者原话"是治理机制术语，保留；90-archive 归档层不动；真实逐字引文存证（如 decisions/0005）保留。
+
 ## 工作流
 
 - **main = canon**；草稿活在分支；PR = 过审门（对照 `checklists/`）；Tags = 冻结点。

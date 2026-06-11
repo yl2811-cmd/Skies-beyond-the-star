@@ -3,7 +3,7 @@ id: canon.history.earth-side.ring
 status: proposed
 date: 2026-06-10
 source: timelapse.txt L1078-L1087
-note: 作者裁决（2026-06-10，decisions/0007）：维持 proposed 至 Arc 2 设计阶段——现在锁定买不到任何东西，只损失灵活性。下方"Act 1 接口约束"两条为 canon 级，独立于本文件的 proposed 状态。
+note: 2026-06-10 定案（decisions/0007）：维持 proposed 至 Arc 2 设计阶段——现在锁定买不到任何东西，只损失灵活性。下方"Act 1 接口约束"两条为 canon 级，独立于本文件的 proposed 状态。
 ---
 
 ## Act 1 接口约束（canon 级 · 2026-06-10 裁决锁定）

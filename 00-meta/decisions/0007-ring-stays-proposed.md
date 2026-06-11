@@ -6,7 +6,7 @@ date: 2026-06-10
 
 # Decision 0007 · ring.md 维持 proposed，不现在补全（Q14 / Issue #7）
 
-**裁决人：** 作者（2026-06-10，工作对话）
+2026-06-10 定稿（工作对话）。
 
 **决定：** `10-canon/history/earth-side/ring.md` 维持 proposed，不在当前阶段锁定 Ring 的具体形态、冲突 choreography、Act 2-3 集数分配。文件自身的判断（"待 Act 1 完成和现实 AI 发展趋势更清晰后锁定"）是对的——Ring 是 Act 2-3 的事，现在锁定买不到任何东西，只损失灵活性。
 

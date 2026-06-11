@@ -68,13 +68,16 @@ date: 2026-06-10
 | Aethelgard | 大陆名 | 〔tl〕 |
 | Main Basin | 大陆中央盆地；**"Basin"是 CI/Federation 地图词，Anna 一代 prose 禁用**（见 20-craft/geography-discipline.md） | 〔tl〕 |
 | Orun | 高原/峡谷系统（Grand Canyon、南线） | 〔tl〕 |
-| Ishkar | 河；北支流经 Atheria 谷底 | 〔tl〕 |
+| Ishkar | 水系（非单一河）；北支〔部分向海〕+ 南支〔Orun 北壁，Riverbend 在此〕汇成主干，盆地内河流口语统称 Ishkar | 〔tl〕（decisions/0008 §3 + 0009 §1 定稿） |
 | Frontier City | 最大 settlement（~233k），Apex Hub；"大都市" | 〔tl〕 |
 | Iris Hollow | 沿海丘陵 settlement（~80k），Apex Hub | 〔tl〕 |
 | Cinderlode | 烬矿（~80k）；第三大城、东方清算所、非 Apex | 〔tl〕 |
 | Coppergate | Basin 南部聚落（~12k） | 〔tl〕 |
 | Stormperch | Marneth 西侧入口聚落（~2k） | 〔tl〕 |
 | Saltmarch | Great Ochre Desert 北缘聚落（~1.5k） | 〔tl〕 |
+| Vorhan | 大陆东侧隔海最大陆块（草图 "other land"）；BARREN——CI 从未触碰 | 〔tl〕（decisions/0009 §2） |
+| Keld Archipelago | 大陆东北海域群岛链；未开发 | 〔tl〕（decisions/0009 §2） |
+| Duskreach | 大陆东南离岸陆块（Vorhan 与主大陆之间）；未开发 | 〔tl〕（decisions/0009 §2） |
 
 ## 物 / 动植物 / 母题
 

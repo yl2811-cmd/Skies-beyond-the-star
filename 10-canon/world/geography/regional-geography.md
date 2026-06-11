@@ -53,7 +53,8 @@ source: timelapse.txt L3439-L3527
 
 | 地理单元 | 特征 | 尺度 |
 |---|---|---|
-| **Main Basin** | 温带宜居区，大部分人口和agriculture | ~200+ km E-W，略椭圆 |
+| **Main Basin** | 温带宜居区，大部分人口和agriculture | ~800 km E-W，略椭圆 |
+| **东方隔海陆块/群岛** | Vorhan（东侧最大陆块，BARREN、CI 从未触碰）、Keld Archipelago（东北群岛链）、Duskreach（东南离岸陆块）——均未开发，无人 | 大陆以东海域（decisions/0009 §2） |
 | **Sea** | 大陆西侧和西北侧的海洋 | Iris Hollow面海，Driftmoor/Tidemark/Shellharbor沿海 |
 | **Orun–Marneth Arc** | 盆地南缘到东缘的连续造山脊系，两段在东南角以~30°浅夹角相接=**开放浅弧，非围栏**。盆地朝北/东北敞开。 | 南段~800km E-W + 东段斜向N |
 | **— Orun Plateau（西/南段）** | 逆冲断层抬升的basalt台地。北面35° escarpment 3km落差（Titan's Staircase），南面缓降高原2-3km。西端在海岸处降至800m-1.2km（The Cape海蚀角）。地质不活跃。 | 东西延伸~800 km |
