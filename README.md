@@ -31,18 +31,9 @@ This repository is the canon home of the *Skies Beyond the Star* IP. 自 2026-06
 
 ## Author's note（原话）
 
-> note, this is skies beyond the star novel outline tree, model with good creativity are welcomed, Models and coauthor should act more like collaborator and aestiestic creator rather than coder.
-> image except anna freedman and lia are not guaranteed to present archeon, please distinguish carefully. writing must be in English if allowed.
-
 也就是说：合作者（人类或 AI）在这里是**审美创作者，不是码农**；视觉资产中只有 Anna Freedman 与 Lia 两图保证忠于 Archeon；正文一律英文，设定/设计文档语言不限。
 
-## 旧结构去哪了
 
-2026-06-11 扁平化重构前的多文件结构（00-meta / 10-canon / 20-craft / 30-design / 40-manuscript / 60-taste）完整保留于分支 **`pre-flatten-2026-06-11`** 与 git 历史：
-
-```sh
-git fetch origin pre-flatten-2026-06-11
-git show origin/pre-flatten-2026-06-11 --stat   # 看旧结构
 git checkout pre-flatten-2026-06-11             # 整体回到旧结构
 ```
 
