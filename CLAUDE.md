@@ -8,7 +8,7 @@
 - **唯一权威 = `timelapse-consolidated-2026-06-10.md`**（下称"大文件"，约 83 万字节 ≈ 11–14 万 Fable token，0–9 章）。任何设定/设计/裁决/品味内容都在里面；第 0 章是速查索引（纪年表 / GLOSSARY / 代号词典 / 外部引用清单）。
 - 卷外仅有：`90-archive/`（旧 2025 废案标本，**禁作事实来源**）、`50-assets/`（图像，除 Anna Freedman 与 Lia 外不保证忠于 Archeon）、`tools/lint-book.sh`、`README.md`、本文件。
 - **禁止新建与大文件平行的内容小文件**。新内容一律写进大文件对应章节。
-- 旧多文件结构完整保留于 git tag `pre-flatten-2026-06-11`。
+- 旧多文件结构完整保留于分支 `pre-flatten-2026-06-11`。
 
 ## 二、RLM 调度协议（主脑–agent 工作方式）
 

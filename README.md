@@ -38,11 +38,12 @@ This repository is the canon home of the *Skies Beyond the Star* IP. 自 2026-06
 
 ## 旧结构去哪了
 
-2026-06-11 扁平化重构前的多文件结构（00-meta / 10-canon / 20-craft / 30-design / 40-manuscript / 60-taste）完整保留于 git tag **`pre-flatten-2026-06-11`** 与 git 历史：
+2026-06-11 扁平化重构前的多文件结构（00-meta / 10-canon / 20-craft / 30-design / 40-manuscript / 60-taste）完整保留于分支 **`pre-flatten-2026-06-11`** 与 git 历史：
 
 ```sh
-git show pre-flatten-2026-06-11 --stat   # 看旧结构
-git checkout pre-flatten-2026-06-11      # 整体回到旧结构
+git fetch origin pre-flatten-2026-06-11
+git show origin/pre-flatten-2026-06-11 --stat   # 看旧结构
+git checkout pre-flatten-2026-06-11             # 整体回到旧结构
 ```
 
 所有有效内容已逐字并入大文件（导航类脚手架除外，其职能由第 0 章与目录取代）。

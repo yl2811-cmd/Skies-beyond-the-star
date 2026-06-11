@@ -1,7 +1,7 @@
 # Skies Beyond the Star — 全书唯一权威本体 / The Book
 
 > 本文件是整部作品的唯一权威文本：世界观 / 地图 / 童年篇 / Arc 计划 / 角色库 / 账本 / 裁决 / 设计原则 / 品味层合一。
-> 2026-06-11 仓库扁平化：原 00-meta、10-canon、20-craft、30-design、40-manuscript、60-taste 的全部有效内容已并入本卷；旧结构完整保留于 git tag `pre-flatten-2026-06-11`。
+> 2026-06-11 仓库扁平化：原 00-meta、10-canon、20-craft、30-design、40-manuscript、60-taste 的全部有效内容已并入本卷；旧结构完整保留于分支 `pre-flatten-2026-06-11`。
 > 卷外仅存：`90-archive/`（旧 2025 标本与批注）、`50-assets/`（图像资产）、`CLAUDE.md`/`README.md`（操作协议）、`tools/lint-book.sh`（机械校验）。
 > AI 协作方式见 CLAUDE.md：派 fable agent 通读本卷，搬运原文引用 + 解释给主脑；canon 改一处，必须全文扫同名词。
 > （本卷前身：2026-06-10 合订本，源分支 `claude/nifty-fermi-h0vnym`，逐字整合、已剥除各文件 YAML front-matter。）
